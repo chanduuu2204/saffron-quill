@@ -1,0 +1,16 @@
+{
+  "name": "The Saffron Quill",
+  "short_name": "SaffronQuill",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdf2e9",
+  "theme_color": "#ff9933",
+  "description": "The Saffron Quill: Recipes, Mythology, Literature, and Psychology.",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/Palada_Payasam.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
